@@ -1,0 +1,58 @@
+20230921	15:26:31	ae8def68-b662-4864-a5d0-8ad5eac3c719	TypeError: Cannot read properties of undefined (reading 'username')
+20230921	15:27:32	c11f1fef-e437-4e20-9ddc-4dcb3f01a6c6	TypeError: Cannot read properties of undefined (reading 'username')
+20230921	15:32:43	a89e786e-bbde-473d-94e0-87b40de5458e	TypeError: Cannot read properties of undefined (reading 'username')
+20230921	15:38:50	cf01abbb-827e-4e9b-83ef-035fcc6e6a73	TypeError: Cannot read properties of undefined (reading 'username')
+20230921	15:49:13	c344cdc0-b17f-458c-ad29-9eeeae59a1a7	TypeError: Cannot read properties of undefined (reading 'username')
+20230921	15:51:39	ae89a1f0-dec4-455b-bd45-cfd6cf4e1728	TypeError: Cannot read properties of undefined (reading 'username')
+20230921	15:55:22	90c244d9-ede2-4cb3-b330-e50b3e80ae09	TypeError: res is not a function
+20230921	15:56:44	e76f8509-40f2-455c-98cf-eea6b2b7348e	TypeError: Cannot read properties of undefined (reading 'username')
+20230921	16:01:37	bbad19b3-dd39-4be2-84cf-f6db1de4e226	TypeError: Cannot read properties of undefined (reading 'username')
+20230921	16:05:49	627ffaf1-cd1b-4393-a328-c2d105c3c392	TypeError: Cannot read properties of undefined (reading 'username')
+20230921	18:29:19	6ece2551-a8aa-4b76-bd96-0b794cbb2907	Error: secretOrPrivateKey must have a value
+20230921	18:29:31	bcbc8933-128c-4be3-9f36-84088e1eecf9	Error: secretOrPrivateKey must have a value
+20230921	18:30:18	c5dc4525-be8f-43de-b9c6-50b38dd68e3b	Error: secretOrPrivateKey must have a value
+20230921	18:30:19	46ada5fa-89a0-43da-8c65-9e33b66df0fa	Error: secretOrPrivateKey must have a value
+20230921	18:30:27	0eb55026-c727-4f75-a90e-b96efa086658	Error: secretOrPrivateKey must have a value
+20230921	18:32:19	1fcd01b1-5b86-4d00-bb61-3c5f1fd083e3	Error: secretOrPrivateKey must have a value
+20230921	18:32:41	f82e484f-1be7-4925-ab1c-4c2e17598de0	Error: secretOrPrivateKey must have a value
+20230921	18:32:58	44a48a16-4fa3-4a2b-becd-8984fe0a27ce	Error: secretOrPrivateKey must have a value
+20230921	18:33:15	0aa9c236-4824-47fc-ac61-92399c6ec89e	Error: secretOrPrivateKey must have a value
+20230921	18:33:35	298c3b4b-3781-4ba2-9b01-32fa0d3ead78	Error: secretOrPrivateKey must have a value
+20230921	18:34:33	89ed4380-36d1-41ff-8a9c-110aa8c131c1	Error: secretOrPrivateKey must have a value
+20230921	18:34:34	7a6b03cd-9adc-4a58-b45b-483a3dec6113	Error: secretOrPrivateKey must have a value
+20230921	18:34:35	9e0683b5-a56d-4d6a-8acd-4243cf03d650	Error: secretOrPrivateKey must have a value
+20230921	18:34:35	ceeb4235-a868-4684-a3d3-ab0d90816f9a	Error: secretOrPrivateKey must have a value
+20230921	18:35:09	a9342d19-300b-4576-b056-094f6b117003	Error: secretOrPrivateKey must have a value
+20230921	18:35:18	41c36bf2-b1eb-49dc-9b3c-7dc1b34f89c5	Error: secretOrPrivateKey must have a value
+20230921	18:36:19	3edc9a7c-03a4-4fcc-aa94-56c97863ccb8	Error: secretOrPrivateKey must have a value
+20230921	18:43:04	70a9992d-d9cd-4259-80d4-d487f9ab19b0	Error: secretOrPrivateKey must have a value
+20230921	18:44:16	d7f40176-d774-4296-a76b-01b808d9c063	Error: secretOrPrivateKey must have a value
+20230921	18:44:30	ac74e08b-2760-4902-9f35-390aac48bfac	Error: secretOrPrivateKey must have a value
+20230921	18:44:32	7a416ed7-246d-4f66-aa9d-05f3ccd78b6d	Error: secretOrPrivateKey must have a value
+20230921	18:44:46	64e86360-c5cb-42bb-8b1e-f609a51e327e	Error: secretOrPrivateKey must have a value
+20230921	18:44:50	e31f26a6-8908-40c4-b770-558ec63d38b4	Error: secretOrPrivateKey must have a value
+20230921	18:44:51	967250fc-d1ab-4c19-bfd4-9097a4aaec6a	Error: secretOrPrivateKey must have a value
+20230921	19:33:37	893a4af5-a478-4f54-8a53-5a07f150c051	Error: secretOrPrivateKey must have a value
+20230921	19:35:29	d38349c0-2626-430e-bd34-5a2a875ee012	Error: secretOrPrivateKey must have a value
+20230921	19:35:30	f6c3244a-f696-43a5-b8f4-c3b3d86432ce	Error: secretOrPrivateKey must have a value
+20230921	19:35:30	01af8656-b736-439f-85ab-ddea3cc73d83	Error: secretOrPrivateKey must have a value
+20230921	19:35:43	ec76ed47-26d4-4eef-ac25-50ba1a41fe21	Error: secretOrPrivateKey must have a value
+20230921	19:35:45	dc560ee5-166a-4817-8e4f-4407b0633a22	Error: secretOrPrivateKey must have a value
+20230921	19:35:50	7fa70686-320c-4659-8fb7-1ce8971667d7	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20230921	19:36:04	b979af5b-c2a5-47de-82f6-50aa07608ced	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20230921	19:36:05	e13cd281-8901-42f5-99c5-c6bb5e0e407e	JsonWebTokenError: verify must be called asynchronous if secret or public key is provided as a callback
+20230921	19:39:01	0393cd5a-860f-4a5c-80d9-42211c3f07df	Error: secretOrPrivateKey must have a value
+20230921	19:39:07	37c3f2c3-96fd-4a15-81fd-21916900d9ec	Error: secretOrPrivateKey must have a value
+20230921	19:39:12	0021da3c-8564-410c-97f4-b192c8ad0d04	Error: secretOrPrivateKey must have a value
+20230921	19:40:15	c542510b-1cc2-49ca-920e-825cc0db60c0	Error: secretOrPrivateKey must have a value
+20230921	19:40:18	993a52e5-70e7-44f5-9448-f927c8d1f7a3	Error: secretOrPrivateKey must have a value
+20230921	19:41:56	4f4e917c-e1cf-4844-91dd-57c7bb284dcd	Error: secretOrPrivateKey must have a value
+20230921	19:41:57	83878c77-3fdc-459c-a3c1-3835125ac6e9	Error: secretOrPrivateKey must have a value
+20230921	19:41:57	d67e488f-a9dd-4302-845a-913ffc060c0e	Error: secretOrPrivateKey must have a value
+20230921	19:41:58	6486efaa-c712-4e3a-81b4-3a6131f5edee	Error: secretOrPrivateKey must have a value
+20230921	19:45:44	440f9836-e9dc-4dc3-bca0-7f03a53e6ecf	Error: secretOrPrivateKey must have a value
+20230921	19:46:02	0d7d4785-9e3c-48a0-b8ac-d47908c1b81c	Error: secretOrPrivateKey must have a value
+20230921	19:46:03	2c9a9778-0d33-40da-9a3f-9b6dd0c7e8fd	Error: secretOrPrivateKey must have a value
+20230921	19:46:04	0afd2ebe-cc60-4803-8ba0-a0a993bcdeb0	Error: secretOrPrivateKey must have a value
+20230921	20:28:14	7a0a792e-2a15-4872-b197-191df8ffa16b	TypeError: Cannot read properties of undefined (reading 'jwt')
+20230921	20:28:15	6a7ba3f1-1f00-40b4-9a20-a9062720d01c	TypeError: Cannot read properties of undefined (reading 'jwt')

@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1,
+        "skillName": "Test",
+        "version": "1.0.0",
+        "description": "test",
+        "createDate": "2023-09-25T19:16:39.517Z",
+        "log": [
+            {
+                "id": 1,
+                "date": "2023-09-25T19:16:39.517Z",
+                "shorttext": "",
+                "description": ""
+            }
+        ]
+    }
+]
