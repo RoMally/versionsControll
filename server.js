@@ -8,7 +8,7 @@ const errorHandler = require('./middleware/errorHandler');
 const verifyJWT = require('./middleware/verifyJWT');
 const cookieParser = require('cookie-parser');
 const credentials = require('./middleware/credentials')
-const PORT = process.env.PORT || 8081;
+const PORT = process.env.PORT || 8080;
 
 // custom middleware logger
 app.use(logger);
